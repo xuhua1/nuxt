@@ -1,22 +1,80 @@
-# daxuetool
+# 工具
 
-> My amazing Nuxt.js project
+> 一些工具的集合
 
-## Build Setup
+介绍
+------------------
+>根据学习的nuxt搭建一个工具网站结合包含一些益智游戏和小工具。
 
-``` bash
-# install dependencies
-$ npm install
+技术说明
+------------------
+前端部分
+-------------------
+- [x] 电子书的搜索，下载，查看
+- [x] 逻辑题目的查看，编辑，上传。
+- [x] 扫雷游戏的实现
+- [x] 数独的生成
+- [x] 华容道的实现与解密
+- [x] 木板华容道的实现与解密
+- [x] 数字华容道的实现
+- [x] 围住神经猫的实现
+- [x] 竹竿游戏
+- [x] 文章的标题展示，新增，修改，评论。
+- [x] 通过上传文本打字练习
+- [x] 计算不同亲戚之间的称呼
+- [x] 二维码的生成与下载
 
-# serve with hot reload at localhost:3000
-$ npm run dev
 
-# build for production and launch server
-$ npm run build
-$ npm start
+技术栈
+------------
+- [x] nuxt
+- [x] vue
+- [x] element-ui
+- [x] Express
+- [x] Mongodb
+- [x] Mongoose
 
-# generate static project
-$ npm run generate
-```
+项目运行效果
+------------------
+## 竹竿游戏
+--
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+![图片](./md-img/bamboo.gif)
+
+## 书籍展示
+
+![图片](./md-img/book.gif)
+
+## 笑话列表
+
+![图片](./md-img/joke.gif)
+
+## 围住神经猫
+
+![图片](./md-img/cat.gif)
+
+## 上传文件
+
+![图片](./md-img/sdoku.gif)
+
+## 华容道及华容道解密
+
+![图片](./md-img/klotski.gif)
+## 数字华容道
+
+![图片](./md-img/klotski3.gif)
+## 木板华容道
+
+![图片](./md-img/wood.gif)
+## 扫雷
+
+![图片](./md-img/mines.gif)
+## 二维码生成及下载
+
+![图片](./md-img/qrcode.gif)
+## 亲戚计算器
+
+![图片](./md-img/relationship.gif)
+## 打字练习
+
+![图片](./md-img/typing.gif)
